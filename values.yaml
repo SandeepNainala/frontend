@@ -1,0 +1,5 @@
+appName: frontend
+service:
+  type: LoadBalancer
+
+params: ""
